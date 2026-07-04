@@ -1,6 +1,6 @@
 package assignment_player;
 
-public class Team {
+public class Teams {
 
     private String teamName;
     private Player[] players;
